@@ -1,0 +1,21 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "express": "^4.16.4",
+    "jssoup": "0.0.10",
+    "request": "^2.88.0"
+  },
+  "engines":{
+    "node": "v10.15.0",
+    "npm": "6.4.1"
+  }
+}
